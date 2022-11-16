@@ -1,1 +1,1 @@
-# example-css-in-js-sort
+# vite-for-vanilla-extract
